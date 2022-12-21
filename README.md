@@ -1,14 +1,9 @@
-                                                     <h1>👋 Hi, I’m krish kaushal </h1>
+                    Welcome to my GitHub profile! My name is Krish Kaushal and I am a web developer, hacker, and retro gaming enthusiast.
 
+I have a strong passion for building and designing websites, and I am always looking for ways to improve my skills in this field. I am particularly interested in front-end development, and enjoy working with HTML, CSS, and JavaScript to create dynamic and responsive web applications.
 
-- 👀 I’m interested in web development, a little bit of hacking and retro gamess, like OLD <img src="https://giphy.com/embed/Xbjut97XRr1aU" width="480" height="369" >
+In addition to web development, I also have a keen interest in hacking and cybersecurity. I enjoy learning about and testing out different security protocols and technologies, and am always looking for ways to stay up-to-date with the latest trends and best practices in this field.
 
-<src="https://giphy.com/embed/Xbjut97XRr1aU" width="480" height="369" frameBorder="0" class="giphy-embed" allowFullScreen ><p><a href="https://giphy.com/gifs/computer-90s-Xbjut97XRr1aU">via GIPHY</a></p>
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me krishkaushal23@gmail.com
+When I'm not coding or hacking, you can usually find me playing retro games. I have a particular love for classic console games from the 80s and 90s, and enjoy spending my free time revisiting some of my favorite old-school titles.
 
-<!---
-Drugjudy/Drugjudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by my profile! Feel free to check out my repositories and get in touch if you have any questions or just want to chat about web development, hacking, or retro gaming.
